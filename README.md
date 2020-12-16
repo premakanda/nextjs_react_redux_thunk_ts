@@ -1,4 +1,4 @@
-# My test (Nikita Kysil)
+# My test
 
 Some app with posts and comments
 
